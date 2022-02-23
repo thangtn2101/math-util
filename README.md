@@ -10,4 +10,4 @@
 ##### © thangn.tran 2022
 
 ### Screenshots:
-![DTT with TDD using JUnit](https://github.com/thangtn2101/math-util/tree/main/screenshots)
+![DTT with TDD using JUnit](https://github.com/thangtn2101/math-util/blob/main/screenshots/DTT%20with%20TDD%20using%20JUnit.png)
